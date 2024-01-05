@@ -18,17 +18,17 @@ This project utilizes the Data Science Books dataset sourced from Kaggle, availa
    - Investigate the relationship between the length of a book (in terms of pages) and its price.
    - Analyze whether longer books are generally priced higher.
 
-### Best Python and Machine Learning Books
+#### 3. Best Python and Machine Learning Books
 
    - Identify and compile a list of the best Python books based on various factors such as ratings, reviews, and popularity.
    - Similarly, identify and compile a list of the best Machine Learning books using relevant criteria.
 
-### Cluster Analysis
+#### 4. Cluster Analysis
 
    - Perform cluster analysis on book names using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) and K-means clustering.
    - Explore patterns and similarities in book titles to reveal potential categorizations.
 
-### Amazon Review Scraping & Book Review Summary
+#### 5. Amazon Review Scraping & Book Review Summary
 
    - Scrape additional reviews from Amazon for the data science books in the dataset.
    - Summarize the reviews to provide concise insights into the overall sentiments and key points.
